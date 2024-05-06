@@ -1,0 +1,49 @@
+.yarm{
+    border-radius: 50px;
+    background: linear-gradient(20rad, yellow,red);
+}
+.yarm1{
+    border-radius: 50px;
+    background: linear-gradient(20rad, deeppink,purple);
+}
+.yarm2{
+    border-radius: 50px;
+    background: linear-gradient(20rad, lightblue,blue);
+}
+.yarm3{
+    border-radius: 50px;
+    background: linear-gradient(20rad, lightblue,aqua);
+}
+.yarm4{
+    border-radius: 50%;
+}
+.text-mergn{
+    margin-left: 480px;
+}
+.yarm0{
+    border-radius: 50px;
+    background-color: aqua;
+}
+.yarm00{
+    border-radius: 50px;
+    background-color: deeppink;
+}
+.yarm01{
+    border-radius: 50px;
+    background-color: lawngreen;
+}
+.yarm02{
+    border-radius: 50px;
+    background-color: lightblue;
+}
+.yarm03{
+    border-radius: 50px;
+    background-color: orange;
+}
+.yarm04{
+    border-radius: 50px;
+    background-color: red;
+}
+.yarm5{
+    border-radius: 50px;
+}
